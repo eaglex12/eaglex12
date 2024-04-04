@@ -9,6 +9,10 @@ I am also excited about Open Source development and has started exploring this w
 📫 How to reach me : <a href="https://mail.google.com/mail/u/2/#inbox">divyanshsrathore13@gmail.com</a></br>
 </p>
 
+<p align="center"> 
+  <br>Profile Visits<br>
+  <img src="https://profile-counter.glitch.me/eaglex12/count.svg"/>
+ </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
