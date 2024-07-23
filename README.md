@@ -26,7 +26,7 @@ I am also excited about Open Source development and has started exploring this w
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eaglex12&show_icons=true&locale=en&layout=compact&theme=dracula" alt="languages graph"  height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=eaglex12&show_icons=true&count_private=true&hide=stars&show_icons=true&theme=dracula&include_all_commits=true" alt="stats graph"  height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eaglex12&show_icons=true&count_private=true&count_public=true&&hide=stars&show_icons=true&theme=dracula&include_all_commits=true" alt="stats graph"  height="150" />
 </div>  
 
 
