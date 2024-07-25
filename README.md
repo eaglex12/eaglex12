@@ -13,7 +13,7 @@ I am also excited about Open Source development and has started exploring this w
   <br>Profile Visits<br>
   <img src="https://profile-counter.glitch.me/eaglex12/count.svg"/>
  </p>
-<h3 align="left">Frontend:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
