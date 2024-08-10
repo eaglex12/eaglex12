@@ -2,12 +2,19 @@
 <h3 align="center">🚀A passionate Software developer </h3>
 <img align ="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*ygaHmPjQnVmEApdT.gif">
 
-<h1><B> 🚀 About Me </B > </h1>
-<p>I'm a Software developer Engineer </br>
- I am also passionate for building cutting-edge web applications and also knows about ReactJS and also proficient in Node.js and MongoDB. With a solid background in programming, I am also well-versed in C/C++, Python, and Java.</br>
-I am also excited about Open Source development and has started exploring this world.</br>
-📫 How to reach me : <a href="https://mail.google.com/mail/u/2/#inbox">divyanshsrathore13@gmail.com</a></br>
+<h1><b>🚀 About Me</b></h1>
+<p>
+  I'm Divyansh Singh Rathore, a passionate and dedicated Software Development Engineer currently working at basys.ai. I have a strong foundation in computer science and engineering, with a particular focus on automating complex healthcare processes, notably enhancing the efficiency of the Prior Authorization System in the US.</br></br>
+
+  My technical expertise spans across integrating advanced AI systems like ChatGPT and Claude.AI, implementing FHIR standards using HAPI FHIR and HL7 protocols, and developing scalable backend architectures. I am also proficient in full-stack development, including Django, GraphQL API, Apollo Client, ReactJS, and CSS. Additionally, I have a solid background in programming languages like C/C++, Python, and Java.</br></br>
+
+  My problem-solving acumen is evidenced by my contributions to various projects, including resolving critical rendering issues at Shaadi.com. Academically, I have a solid grounding in DSA, demonstrated by an AIR of 15002 in JEE Advanced 2020 and completion of over 350 coding challenges.</br></br>
+
+  I am also excited about Open Source development and have started exploring this world.</br></br>
+
+  📫 How to reach me: <a href="mailto:divyanshsrathore13@gmail.com">divyanshsrathore13@gmail.com</a>
 </p>
+
 
 <p align="center"> 
   <br>Profile Visits<br>
