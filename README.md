@@ -23,12 +23,6 @@
         <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
       </a> 
     </td>
-   
-    <td>
-      <a href="https://github.com/Satyam-Jaiswal"> 
-        <img height="30" src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
-      </a>
-    </td>
      <td>
       <a href="mailto:satyam.jaiswal26@gmail.com">
         <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"> 
