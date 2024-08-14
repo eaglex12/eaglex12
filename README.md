@@ -12,7 +12,7 @@
 
   I am also excited about Open Source development and have started exploring this world.</br>
 
-  📫 How to reach me: <a href="mailto:divyanshsrathore13@gmail.com">divyanshsrathore13@gmail.com</a>
+  📫 How to reach me: <a href="mailto:divyanshsrathore13@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"> </a>
 </p>
 
 
