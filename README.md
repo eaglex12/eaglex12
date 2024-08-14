@@ -12,8 +12,28 @@
 
   I am also excited about Open Source development and have started exploring this world.</br>
 
-  📫 How to reach me: <a href="mailto:divyanshsrathore13@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"> </a>
+ 
 </p>
+<h3> Connect with Me :mag: </h3> 
+<p align="center">
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/divyansh-singh-rathore-4934b8203/"> 
+        <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
+      </a> 
+    </td>
+   
+    <td>
+      <a href="mailto:divyanshsrathore13@gmail.com">
+        <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"> 
+      </a>
+    </td>
+     
+  </tr>
+</table>
+</p>
+
 
 
 <p align="center"> 
