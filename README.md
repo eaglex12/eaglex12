@@ -94,8 +94,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eaglex12&show_icons=true&locale=en&layout=compact&theme=dracula" alt="languages graph" height="150" />
-  <img src="https://streak-stats.demolab.com?user=eaglex12&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" height="150" />
-</div>
+ 
 
 
 
