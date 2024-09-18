@@ -85,6 +85,8 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      <img src="https://streak-stats.demolab.com?user=eaglex12&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" height="150" />
+
   </a>
 </p>
 
