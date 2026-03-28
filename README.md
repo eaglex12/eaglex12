@@ -4,8 +4,7 @@
 
 <h1><b>🚀 About Me</b></h1>
 <p>
-  I'm Divyansh Singh Rathore, a passionate and dedicated Software Development Engineer currently working at basys.ai. I have a strong foundation in computer science and engineering, with a particular focus on automating complex healthcare processes, notably enhancing the efficiency of the Prior Authorization System in the US.</br>
-  My problem-solving acumen is evidenced by my contributions to various projects, including resolving critical rendering issues at Shaadi.com. Academically, I have a solid grounding in DSA, demonstrated by an AIR of 15002 in JEE Advanced 2020 and completion of over 350 coding challenges.</br>
+I’m Divyansh Singh Rathore, a Software Development Engineer at Basys.ai, building scalable backend systems for healthcare automation, with a focus on optimizing the U.S. Prior Authorization process. I’ve also resolved critical production issues at Shaadi.com, improving performance at scale. Strong in DSA with AIR 15002 in JEE Advanced 2020 and 350+ problems solved.
 
  
 </p>
