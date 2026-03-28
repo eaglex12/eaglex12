@@ -28,12 +28,6 @@
 </table>
 </p>
 
-
-
-<p align="center"> 
-  <br>Profile Visits<br>
-  <img src="https://profile-counter.glitch.me/eaglex12/count.svg"/>
- </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  
