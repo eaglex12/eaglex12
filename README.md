@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyansh Singh Rathore</h1>
-<h3 align="center">🚀 Backend Engineer | Building Scalable Systems</h3>
+<h3 align="center">🚀 Software Engineer | Building Scalable Systems</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*ygaHmPjQnVmEApdT.gif">
 
